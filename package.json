@@ -17,6 +17,7 @@
   },
   "bin": "src/node/cli.js",
   "main": "./src/rem.js",
+  "browser": "./lib/rem.js",
   "keywords": [
     "rem",
     "middleware",
